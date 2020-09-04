@@ -24,7 +24,7 @@
     "graphql-import": "^0.7.1",
     "graphql-tag": "^2.10.1",
     "graphql-tools": "^4.0.4",
-    "lodash.merge": "^4.6.1",
+    "lodash.merge": "^4.6.2",
     "mongoose": "^5.4.9",
     "node-fetch": "^2.3.0"
   },
