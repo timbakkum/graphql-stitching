@@ -16,7 +16,7 @@
     "apollo-fetch": "^0.7.0",
     "apollo-link-context": "^1.0.14",
     "apollo-link-http": "^1.5.11",
-    "apollo-server": "^2.3.3",
+    "apollo-server": "^2.25.4",
     "dotenv": "^7.0.0",
     "firebase-admin": "^7.3.0",
     "google-auth-library": "^3.1.2",
